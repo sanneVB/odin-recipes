@@ -1,2 +1,9 @@
 # odin-recipes
-Recipes a la Odin Project
+Recipe site a la Odin Project
+
+A site demonstrating some basic skills thought by the Odin Project course.
+
+- Linking
+- Listing
+- HTML Boilerplate
+- Image
