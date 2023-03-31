@@ -1,0 +1,17 @@
+.introImage {
+    height: auto;
+    width: 800px;    
+}
+
+.introBox,
+.ingredients,
+.instructions {
+    background-color: wheat;
+    width: 80%;
+}
+
+.text {
+    font-family: Helvetica, sans-serif;
+    font-size: large;
+}
+
